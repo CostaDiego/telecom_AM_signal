@@ -15,7 +15,7 @@ FrameText3=Revision:
 </Symbol>
 <Components>
 GND * 1 100 530 0 0 0 0
-Vac V1 1 100 460 18 -26 0 0 "1 V" 1 "10 kHz" 1 "0" 0 "0" 0 "SUBCLICK" 0
+Vac V1 1 100 460 20 -30 0 0 "1 V" 1 "10 kHz" 1 "0" 0 "0" 0 "SUBCLICK" 0
 .TR TR1 1 120 150 0 63 0 0 "lin" 0 "0" 0 "0.4 ms" 1 "50000" 1 "Trapezoidal" 0 "1e-16" 0 "500" 0 "0.001" 0 "1 µV" 0 "yes" 0 "none" 0
 </Components>
 <Wires>
